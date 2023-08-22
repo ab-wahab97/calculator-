@@ -1,5 +1,4 @@
-# calculator-
-a GUI based simple calculator with four operations
+A GUI based simple calculator with four operations
 This is a simple GUI-based calculator application that performs basic arithmetic operations: addition, subtraction, multiplication, and division. It provides a user-friendly interface to perform calculations.
 
 Features:
@@ -17,7 +16,7 @@ Tkinter (Python's standard GUI library)
 
 
 
-Usage
+Usage:
 Launch the calculator by running the calculator.py script.
 
 The GUI calculator will appear on your screen.
@@ -34,4 +33,4 @@ The result will be displayed in the output field.
 
 To clear the input, press the C button.
 
-To close the calculator, click the close (X) button on the calculator window.
+To close the calculator, click the close (X) button on the calculator window
